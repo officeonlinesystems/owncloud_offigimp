@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<info>
+	<id>offigimp</id>
+	<name>OffiGimp - Gimp Web Editor</name>
+	<description>OffiGimp - Gimp editor online that allows to create and edit images and photos. It is a paint tool. It is an integration with a Gimp Online host solution deployed in http://www.offidocs.com</description>
+	<summary>Edit images and photos directly in your browser.</summary>
+	<licence>AGPL</licence>
+	<version>0.6.1</version>
+	<author>OffiDocs</author>
+	<bugs></bugs>
+	<repository type="git"></repository>
+	<category>office</category>
+	<category>integration</category>
+	<dependencies>
+		<owncloud min-version="8.2" max-version="9.2" />
+	</dependencies>
+	<ocsid>904728</ocsid>
+</info>
